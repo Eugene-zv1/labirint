@@ -1,4 +1,4 @@
-#создай игру "Лабиринт"!
+#hello
 from pygame import *
 mixer.init()
 font.init()
